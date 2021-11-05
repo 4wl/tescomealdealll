@@ -8,6 +8,7 @@ sub to my yt  : https://youtube.com/c/tescomealdeal
 
 ### invite my bot (please)
 
+- [invite](https://discord.com/oauth2/authorize?client_id=860612939307810846&permissions=8&scope=bot)
 - [top.gg](https://top.gg/bot/860612939307810846)
 - [discordbotlist](https://discordbotlist.com/bots/barry/upvote)
 
