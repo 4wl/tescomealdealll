@@ -2,6 +2,8 @@
 
 i like to code in python cause its ez
 
+^ i am also trying to learn js
+
 sub to my yt  : https://youtube.com/c/tescomealdeal
 
 ### invite my bot (please)
