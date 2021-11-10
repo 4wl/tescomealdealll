@@ -1,4 +1,4 @@
-# hello!
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=hello)](https://git.io/typing-svg)
 
 i like to code in python cause its ez
 
